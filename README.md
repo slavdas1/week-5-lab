@@ -1,0 +1,1 @@
+This tutorial walks you through accessing a TryHackMe room, connecting via FTP, and capturing network traffic with Wireshark. You'll learn how to retrieve a file (PUBLIC_NOTICE.txt) from a remote machine, analyze FTP sessions, and troubleshoot common setup issues. Ideal for students and beginners exploring basic network security tasks.
